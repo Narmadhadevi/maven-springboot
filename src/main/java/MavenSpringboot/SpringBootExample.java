@@ -10,7 +10,7 @@ public class SpringBootExample {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
         SpringApplication.run(SpringBootExample.class, args);
-       // To test the commit changes
+       // To test the commit changes with maven-springboot
 
 	}
 
